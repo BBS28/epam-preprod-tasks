@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.epam.rd.java.basic.practice8.Part5StudentTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-19T19:33:14" hostname="DESKTOP-RRAAHGJ" time="0.215">
+  <properties/>
+  <testcase name="shouldDeleteTeam" classname="com.epam.rd.java.basic.practice8.Part5StudentTest" time="0.215"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
